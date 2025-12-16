@@ -30,6 +30,12 @@
 	padding-left: .5em;
 }
 
+#chapter-2-5 blockquote{
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+}
+
 /* Letter styling */
 
 [epub|type~="z3998:sender"]{
