@@ -31,16 +31,15 @@
 }
 
 #chapter-2-5 blockquote{
+	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
 }
 
 /* Letter styling */
-
 [epub|type~="z3998:sender"]{
 	font-variant: small-caps;
-	margin-bottom: 0.5em;
+	margin-bottom: .5em;
 }
 
 footer{
