@@ -36,7 +36,17 @@
 	text-indent: 0;
 }
 
+#chapter-2-33 div{
+	margin-top: 1em;
+}
+
 /* Letter styling */
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+	margin-bottom: 0.5em;
+}
+
 [epub|type~="z3998:sender"]{
 	font-variant: small-caps;
 	margin-bottom: .5em;
